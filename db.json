@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/m/m/mmg_bookshot.png",
+      "image2": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/m/a/master_spread_3.jpg",
+      "image3": " https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/m/a/master_spread.jpg",
+      "title": "The Master and Margarita",
+      "description": "One of the great masterpieces of the 20th century, Mikhail Bulgakov’s The Master and Margarita is beautifully crafted as a unique Folio edition with illustrations by Peter Suart and an introduction by Orlando Figes. ",
+      "price": "50",
+      "author": "Mikhail Bulgakov",
+      "genre": "romance",
+      "countInStock": 20
+    },
+    {
+      "id": 2,
+      "image": " https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/h/l/hlm_book.png",
+      "image2": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/h/l/hlm_02.png",
+      "image3": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/h/l/hlm_01.png",
+      "title": " Sherlock Holmes",
+      "description": " A stunning new Folio Society collection of Arthur Conan Doyle’s most compelling cases, The Selected Adventures and Memoirs of Sherlock Holmes is given a contemporary twist with Max Löffler’s unsettling illustrations.",
+      "price": 40,
+      "author": "Conan Doyle",
+      "genre": "detective",
+      "countInStock": 10
+    },
+    {
+      "id": 3,
+      "image": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/d/f/dfh_book.png",
+      "image2": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/d/f/dfh_03_1.png",
+      "image3": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/d/f/dfh_04_1.png",
+      "title": "Dun",
+      "description": "This collector’s edition of Frank Herbert’s phenomenal tale of far-future desert warriors, fallible messiahs and interplanetary intrigue is illustrated by award-winning artist Sam Weber, and published to celebrate the 50th anniversary of the world’s best-selling science-fiction title.",
+      "price": 80,
+      "author": "Franklin Patrick Herbert ",
+      "genre": "science fiction",
+      "countInStock": 8
+    },
+    {
+      "id": 4,
+      "image": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/m/v/mvc_book_1.png",
+      "image2": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/m/v/mvc_02.jpg",
+      "image3": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/m/v/mvc_03.jpg",
+      "title": "Howl’s Moving Castle",
+      "description": "This fantastical Folio edition of Diana Wynne Jones’s enchanting tale features artwork by Folio’s 2019 Book Illustration Competition winner.",
+      "price": 55,
+      "author": "Dianna Winny",
+      "genre": "fantasy",
+      "countInStock": 12
+    },
+    {
+      "id": 5,
+      "image": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/g/r/grg_bookshot.png",
+      "image2": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/t/h/the_great_gatsby_gallery_4.jpg",
+      "image3": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/t/h/the_great_gatsby_gallery_1.jpg",
+      "title": " The Great Gatsby ",
+      "description": "F. Scott Fitzgerald’s enduring classic The Great Gatsby is beautifully presented as a Folio Society edition that includes a personal note by Francis Ford Coppola and exquisite artwork by Sam Wolfe Connelly.",
+      "price": 60,
+      "author": "Francis Scott",
+      "genre": "romance",
+      "countInStock": 4
+    },
+    {
+      "id": 6,
+      "image": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/b/k/bkf_book.png",
+      "image2": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/b/k/bkf_05.png",
+      "image3": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/b/k/bkf_04.png",
+      "title": "Breakfast at Tiffany’s",
+      "description": " Capote’s enchanting New York novella, introduced by Jay McInerney. With illustrations by Karen Klassen. ",
+      "price": 35,
+      "author": "Truman Capote",
+      "genre": "artistic fiction",
+      "countInStock": 1
+    },
+    {
+      "id": 7,
+      "image": " https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/h/o/hob_book_2.png",
+      "image2": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/h/o/hob_99.jpg",
+      "image3": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/h/o/hob_01.png",
+      "title": "The Hobbit",
+      "description": "A beautiful edition of Tolkien’s classic children’s story. Leaving his comfortable hobbit hole Bilbo Baggins goes on a reluctant adventure to defeat a dragon, and along the way he encounters the vile, but pathetic Gollum, and his ‘Precious’ – a ring to rule them all.",
+      "price": 45,
+      "author": "John Ronald Reuel",
+      "genre": "fantasy",
+      "countInStock": 19
+    },
+    {
+      "id": 8,
+      "image": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/a/v/avs_book.png",
+      "image2": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/a/v/avs_03.jpg",
+      "image3": "https://www.foliosociety.com/media/catalog/product/cache/1cd189bf7b45b760826995eaf5fff121/a/v/avs_02.jpg",
+      "title": "Alice in Wonderland",
+      "description": "The Folio Society presents a glorious new edition of Lewis Carroll’s immortal tale, illustrated by acclaimed artist Charles van Sandwyk.",
+      "price": 45,
+      "author": "children's literature",
+      "genre": 25,
+      "countInStock": 17
+    }
+  ]
+}
